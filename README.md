@@ -1,10 +1,4 @@
-<h2 align="center" style="color:#FF4500; animation: blink 1s infinite;">🛠 Languages & Tools</h2>
-
-<style>
-@keyframes blink {
-  50% { opacity: 0; }
-}
-</style>
+<h2 align="center" style="color:#FF4500; animation: blink 2s infinite;">🛠 Languages & Tools</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
