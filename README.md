@@ -15,10 +15,13 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  https://github-readme-stats.vercel.app/api?username=cudnah124
-  https://github-readme-stats-eight-theta.vercel.app/api?username=cudnah124
+  <img src="https://github-readme-stats.vercel.app/api?username=cudnah124&show_icons=true&theme=radical" alt="cudnah124's GitHub stats" />
+  <br />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=cudnah124&show_icons=true&theme=radical" alt="cudnah124's GitHub stats (alt)" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cudnah124&theme=radical&hide_border=true" />
 </p>
+
+```
