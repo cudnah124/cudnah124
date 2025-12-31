@@ -14,14 +14,15 @@
 ---
 
 ### 📊 GitHub Stats
+<!-- ⚠️ If some stat cards fail to load, try clearing browser cache or use the github-profile-summary-cards vercel version as below: -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cudnah124&show_icons=true&theme=radical" alt="cudnah124's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cudnah124&theme=radical" alt="Profile Details" />
   <br />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=cudnah124&show_icons=true&theme=radical" alt="cudnah124's GitHub stats (alt)" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cudnah124&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cudnah124&theme=radical&utcOffset=8" alt="Productive Time" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cudnah124&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=cudnah124&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </p>
-
-```
