@@ -11,3 +11,13 @@
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
 </p>
 
+## 🐍 Activity Map
+<p align="center">
+  <img src="https://github.com/cudnah124/cudnah124/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+## 📫 Let's Connect
+<p align="center">
+  <a href="mailto:cudnah.124@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hai-do-756758370/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
