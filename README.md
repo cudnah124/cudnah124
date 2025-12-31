@@ -1,7 +1,7 @@
 <h2 align="center" style="color:#FF4500; animation: blink 2s infinite;">🛠 Languages & Tools</h2>
 
 ### 🛠 Languages & Tools
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" />
