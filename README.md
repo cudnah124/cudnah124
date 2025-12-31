@@ -11,9 +11,14 @@
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
 </p>
 
-## 🐍 Activity Map
+## 📊 Contribution Performance
 <p align="center">
-  <img src="https://github.com/cudnah124/cudnah124/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cudnah124&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=cudnah124&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cudnah124&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
 
 ## 📫 Let's Connect
