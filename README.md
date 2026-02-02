@@ -11,12 +11,6 @@
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
 </p>
 
-## 📊 Contribution Performance
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cudnah124&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cudnah124&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</p>
-
 ## 📫 Let's Connect
 <p align="center">
   <a href="mailto:cudnah.124@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
